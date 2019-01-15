@@ -1,0 +1,52 @@
+@CHARSET "ISO-8859-1";
+
+
+h1
+{
+	
+	text-align: center;
+	
+	
+	/**
+	background-color: black;
+	*/
+	
+}
+
+
+
+body
+{
+	
+	background-image: url("register.jpg");
+	min-height: 380px;
+	
+	
+	/*Center and scale image nicely*/
+	background-position:  center;
+	background-repeat: no-repeat;
+	background-size :cover;
+	position: relative;
+	height: auto;
+	
+	
+
+}
+
+label {
+	background-color: white
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+
+
+
+
