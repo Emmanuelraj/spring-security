@@ -1,4 +1,4 @@
-# Spring Security (Authentication & Authorisation from HSQLDB) in Spring Boot App | Tech Primers
+# Spring Security (Authentication & Authorisation from HSQLDB) in Spring Boot App
 
 # implemented :
         UserDetailService in spring security
